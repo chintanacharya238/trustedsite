@@ -5,7 +5,7 @@ defined( 'ABSPATH' ) OR exit;
  * ------------------------------------------------------------------------------------------------------------------
  * @package trustedsite
  * @version 1.0.7
- * Plugin Name: TrustedSite
+ * Plugin Name: TrustedSite test
  * Plugin URI: https://www.trustedsite.com/
  * Description: Display TrustedSite trustmarks on your website to increase visitor confidence and conversion rates.
  * Author: TrustedSite
